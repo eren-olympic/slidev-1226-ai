@@ -28,6 +28,14 @@ src: ./pages/what_is_generative_ai.md
 src: ./pages/democratized.md
 ---
 
+---
+src: ./pages/llm_app_stack.md
+---
+
+---
+src: ./pages/application.md
+---
+
 # Interactive AI with GPT-4
 
 <div grid="~ cols-2 gap-4">
