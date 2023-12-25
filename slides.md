@@ -14,13 +14,7 @@ mdc: true
 # Generative AI 101
 Exploring the Boundaries of Generative AI
 
----
-src: ./pages/use_case/code_generator.md
----
 
----
-src: ./pages/use_case/text_generator.md
----
 
 ---
 src: ./pages/abstract.md
@@ -28,6 +22,10 @@ src: ./pages/abstract.md
 
 ---
 src: ./pages/what_is_generative_ai.md
+---
+
+---
+src: ./pages/democratized.md
 ---
 
 # Interactive AI with GPT-4

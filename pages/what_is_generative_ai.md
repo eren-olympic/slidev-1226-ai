@@ -1,52 +1,42 @@
 ---
-layout: quote
+layout: image-right
+image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
 
 # What is Generative AI?
 
-<v-click>
+<div v-click>
 IBM: 
+</div>
+<div v-click>
 "Generative AI refers to deep-learning models that can generate high-quality text, images, and other content based on the data they were trained on."
-</v-click>
+</div>
 
 ---
-layout: center
+src: ./use_case/text_generator.md
+---
+
+---
+src: ./use_case/image_generator.md
+---
+
+---
+src: ./use_case/code_generator.md
+---
+
+---
+layout: quote
 ---
 
 # Why now
+<div v-click>
+Databricks:
+</div>
+<div v-click>
+"Innovations don't become technology revolutions until they're DEMOCRATIZED"
+</div>
 
 ---
 layout: image
 image: ./images/historic.png
----
-
----
-layout: center
----
-
-# It's all about DATA
-
----
-layout: image
-image: ./images/data01.png
-transition: fade
----
-
----
-layout: image
-image: ./images/data02.png
-transition: fade
----
-
----
-layout: image
-image: ./images/data03.png
-transition: fade
----
-
----
-layout: image
-image: ./images/data04.png
----
-
-
+--- 

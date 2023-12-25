@@ -8,16 +8,24 @@ Generative AI is not just a technological phenomenon
 </div>
 
 ---
-layout: image-right
-image: ./images/harvord.png
+layout: text-center
 ---
 
 # When we bring Generative AI into workspace
 
 In a recent study by Harvard University and Boston Consulting Group (BCG), the spotlight was on AI in the workplace.
 
-<div v-click>Using Generative AI</div>
+<div grid="~ cols-2 gap-0">
+<div>
+<img 
+:src="'./images/harvord.png'"
+border="rounded"
+scale="80"
+/>
+</div>
 
+<div>
+<div v-click>Using Generative AI</div>
 <v-clicks>
 
 - Completed **12.2%** more tasks
@@ -25,3 +33,5 @@ In a recent study by Harvard University and Boston Consulting Group (BCG), the s
 - They also produced over **40%** higher quality results compared to those not using AI.
 
 </v-clicks>
+</div>
+</div>
