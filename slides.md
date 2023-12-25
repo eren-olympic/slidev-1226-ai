@@ -15,6 +15,28 @@ mdc: true
 Exploring the Boundaries of Generative AI
 
 ---
+src: ./pages/abstract.md
+---
+<!-- 
+---
+src: ./pages/what_is_generative_ai.md
+---
+
+---
+src: ./pages/why_now.md
+---
+
+---
+src: ./pages/data_democratized.md
+---
+
+---
+src: ./pages/how_to_build_e2w_ai_app.md
+---
+
+---
+src: ./pages/conclusion.md
+--- -->
 
 # Interactive AI with GPT-4
 
