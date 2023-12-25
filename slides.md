@@ -3,7 +3,7 @@ theme: seriph
 background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shikiji
-lineNumbers: true
+lineNumbers: false
 drawings:
   persist: false
 transition: slide-left
@@ -13,6 +13,14 @@ mdc: true
 
 # Generative AI 101
 Exploring the Boundaries of Generative AI
+
+---
+src: ./pages/use_case/code_generator.md
+---
+
+---
+src: ./pages/use_case/text_generator.md
+---
 
 ---
 src: ./pages/abstract.md
