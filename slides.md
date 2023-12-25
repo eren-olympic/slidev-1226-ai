@@ -7,12 +7,12 @@ lineNumbers: true
 drawings:
   persist: false
 transition: slide-left
-title: Test
+title: Generative AI 101
 mdc: true
 ---
 
-# Hello World
-This is a subtitle
+# Generative AI 101
+Exploring the Boundaries of Generative AI
 
 ---
 
