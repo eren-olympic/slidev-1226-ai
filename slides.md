@@ -3,17 +3,37 @@ theme: seriph
 background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shikiji
-lineNumbers: true
+lineNumbers: false
 drawings:
   persist: false
 transition: slide-left
-title: Test
+title: Generative AI 101
 mdc: true
 ---
 
-# Hello World
-This is a subtitle
+# Generative AI 101
+Exploring the Boundaries of Generative AI
 
+
+
+---
+src: ./pages/abstract.md
+---
+
+---
+src: ./pages/what_is_generative_ai.md
+---
+
+---
+src: ./pages/democratized.md
+---
+
+---
+src: ./pages/llm_app_stack.md
+---
+
+---
+src: ./pages/application.md
 ---
 
 # Interactive AI with GPT-4
